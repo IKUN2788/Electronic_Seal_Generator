@@ -1,3 +1,5 @@
+<img width="1008" height="790" alt="image" src="https://github.com/user-attachments/assets/008c3dea-92a5-47b6-af7b-db967a6e95b4" />
+
 # 使用 PyQt6 开发一个电子章生成器
 
 在日常办公或开发测试中，我们有时需要生成一些电子印章图片用于测试或演示。本文将带你使用 Python 的 GUI 库 PyQt6，从零开始开发一个功能完善的电子章生成器。
